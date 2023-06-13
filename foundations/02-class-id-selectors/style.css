@@ -8,12 +8,11 @@
   font-size: 36px;
 }
 
-.odd.cooler {
+.font-adjustment {
   font-size: 24px;
 }
 
 #four {
   background-color: rgb(114, 255, 109);
-  font-size: 24px;
   font-weight: 700;
 }
