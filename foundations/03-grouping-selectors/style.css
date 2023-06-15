@@ -1,4 +1,5 @@
-button {
+.click,
+.no_click {
   border-radius: 0px 0px 0px 0px;
   font-size: 29px;
   font-family: Helvetiva, 'Times New Roman', sans-serif;
